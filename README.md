@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirmal Raj</h1>
 <h3 align="center">A passionate Computer science student</h3>
 
-- 🔭 I’m currently working on *Game development*
+- 🔭 I’m currently working on *Game development and Ai*
 
 - 📫 How to reach me *nirmalraj9981z@gmail.com*
 
