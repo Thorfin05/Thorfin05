@@ -1,16 +1,109 @@
-<h1 align="center">Hi 👋, I'm Nirmal Raj</h1>
-<h3 align="center">A passionate Computer science student</h3>
+# Hey there! 👋 I'm Nirmal Raj D
 
-- 🔭 I’m currently working on *Game development and Ai*
+### AI & Data Science Student | Aspiring AI Engineer | Developer
 
-- 📫 How to reach me *nirmalraj9981z@gmail.com*
+I'm a final-year **B.Tech Artificial Intelligence and Data Science** student at **Jerusalem College of Engineering, Chennai**, passionate about building intelligent systems and solving real-world problems through technology.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nirmal-raj-57676b305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal raj" height="30" width="40" /></a>
-<a href="https://instagram.com/its_not_me.7791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_not_me.7791" height="30" width="40" /></a>
-</p>
+I enjoy exploring the intersection of **Artificial Intelligence, Machine Learning, Data Science, and Software Development**. I believe in learning by building, experimenting with new technologies, and continuously improving my problem-solving skills.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+- Currently working on: **F1 Race Strategy Assistant – AI-powered Race Engineer**
+- Exploring: Machine Learning, Generative AI, RAG, AI Agents & Backend Development
+- Interested in: AI Engineering, Data Science & Software Development
+- Passionate about: Problem Solving, Creativity & Continuous Learning
+- Achievement: Best Student Award – Artificial Intelligence & Data Science
+- Leadership: President, IEI Student Chapter – AI & DS
+- Education: B.Tech in Artificial Intelligence and Data Science (2027)
 
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Programming Languages**
+- Python
+- Java
+- JavaScript
+- SQL
+
+**AI, ML & Data Science**
+- Machine Learning
+- Pandas & NumPy
+- Scikit-learn
+- Generative AI
+- RAG & AI Agents
+
+**Web Development & Backend**
+- Flask
+- HTML & CSS
+- Bootstrap
+- REST APIs
+
+**Databases & Cloud**
+- MySQL
+- SQLite
+- AWS
+- Terraform
+
+**Tools & Technologies**
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+- Unity
+
+---
+
+### 🚀 Featured Projects
+
+**🏎️ F1 Race Strategy Assistant**
+- Developing an AI-powered race engineer that answers natural-language questions about Formula 1 race strategies.
+- Integrating historical race data, SQL analytics, RAG, and AI agent tool-calling.
+
+**🤖 HealthBotX**
+- An AI-powered healthcare chatbot built using the Gemini API.
+
+**📊 Sales Prediction System**
+- A machine learning-based sales prediction application using Python, Scikit-learn, Flask, and data visualization.
+
+**🏁 IPL Auction Management System**
+- A web application built using Flask and MySQL with player management and real-time bidding functionality.
+
+**🌍 Multi-Purpose Safety System Using Recycled Tyres**
+- An Arduino-based safety system using MPU6050 sensors and a Python-powered monitoring dashboard.
+- Won First Place in the project competition.
+
+---
+
+### 🏆 Achievements & Leadership
+
+- Best Student Award – AI & DS, Institute of Engineers (India), Kanchipuram Local Centre.
+- Certificate of Merit – Second Rank in First Year B.Tech.
+- President – IEI Student Chapter, Artificial Intelligence & Data Science.
+- Winner – Hexaware Premier League.
+- First Place – Multi-Purpose Safety System Using Recycled Tyres.
+
+---
+
+### 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thorfin05&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorfin05&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Thorfin05&theme=tokyonight&hide_border=true)
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always interested in connecting with developers, collaborating on projects, exploring innovative ideas, and learning from the tech community.
+
+- GitHub: [@Thorfin05](https://github.com/Thorfin05)
+- LinkedIn: [www.linkedin.com/in/nirmal-raj-57676b305](https://www.linkedin.com/)
+- Email: [nirmalraj9981z@gmail.com](mailto:your-email@example.com)
+
+---
+
+### 💡 My Philosophy
+
+**"Learn continuously. Build fearlessly. Innovate relentlessly."**
+
+Thanks for visiting my profile! Feel free to explore my repositories and let's build something meaningful together. 🚀
