@@ -82,16 +82,6 @@ I enjoy exploring the intersection of **Artificial Intelligence, Machine Learnin
 
 ---
 
-### 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thorfin05&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorfin05&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Thorfin05&theme=tokyonight&hide_border=true)
-
----
-
 ### 🤝 Let's Connect!
 
 I'm always interested in connecting with developers, collaborating on projects, exploring innovative ideas, and learning from the tech community.
